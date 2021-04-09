@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software Setup
-parent: V0
+parent: Pi-KVM Version 0
 nav_order: 3
 ---
 

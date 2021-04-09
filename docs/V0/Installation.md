@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installation
-parent: V0
+parent: Pi-KVM Version 0
 nav_order: 4
 ---
 
